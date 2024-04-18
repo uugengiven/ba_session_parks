@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.bigblue {
+  color: blue;
+  font-size: 3em;
+}
